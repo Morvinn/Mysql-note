@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "f057018dcfd64adf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f70e126b201309b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e49a709ae9b6291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d445abc44946785e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a04ddddf68a3175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02bb356bc9ecb05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d65187cf30d449a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#标题1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc61d84396d2229c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cfe09a98e289e13",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "mysql/图片存储/Pasted image 20230607155651.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3aef936e46cb8ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "3424daa49344e164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df3ddc20bb47cb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19d7dd6e298f27e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e52bcbda0df59a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00bfdbdc4cabc8ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8e49a709ae9b6291",
+  "lastOpenFiles": [
+    "git.md",
+    "新建文本文档.txt",
+    "mysql/练习markdown语法练习.md",
+    "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
+    "mysql/视图&存储过程&触发器/存储函数.md",
+    "mysql/图片存储/Pasted image 20230607155651.png",
+    "mysql/视图&存储过程&触发器",
+    "mysql/图片存储/Pasted image 20230607160312.png",
+    "mysql/图片存储",
+    "未命名",
+    "mysql/视图.md",
+    "mysql/未命名.md",
+    "未命名.canvas",
+    "资料/Spark.md",
+    "资料/Pasted image 20230607165103.png",
+    "资料/Pasted image 20230607165047.png",
+    "资料/Linux.md",
+    "资料/Hive.md",
+    "资料/Java基础1.md",
+    "资料/java基础2.md",
+    "资料/项目一.md",
+    "资料/数据仓库.md",
+    "mysql/Pasted image 20230607160412.png",
+    "mysql/存储过程 1.md",
+    "资料/JUC.md",
+    "资料",
+    "Pasted image 20230607160412.png",
+    "Pasted image 20230607160312.png",
+    "Pasted image 20230607155651.png",
+    "mysql",
+    "资料/BigDataGuide.pdf",
+    "资料/sql理解.md",
+    "资料/Sqoop.md",
+    "资料/kafka.md",
+    "资料/Hbase.md",
+    "资料/Hadoop.md",
+    "资料/Hadoop note.md",
+    "资料/JVM.md",
+    "资料/leetcode数据库题目.md",
+    "资料/TopK.md",
+    "资料/v3.0-JavaGuide面试突击版.pdf",
+    "资料/zookeeper.md",
+    "未命名 1.canvas",
+    "未命名 1.md"
+  ]
+}
