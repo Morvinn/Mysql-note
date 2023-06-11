@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
+                "file": "mysql/进阶篇/锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
+                "file": "mysql/进阶篇/锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
+                "file": "mysql/进阶篇/锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md"
+                "file": "mysql/进阶篇/锁.md"
               }
             }
           }
@@ -159,13 +159,14 @@
   },
   "active": "8e49a709ae9b6291",
   "lastOpenFiles": [
+    "mysql/进阶篇/存储过程&存储函数&触发器.md",
+    "mysql/进阶篇/锁.md",
     "git.md",
     "新建文本文档.txt",
     "mysql/练习markdown语法练习.md",
-    "mysql/视图&存储过程&触发器/存储过程&存储函数&触发器.md",
     "mysql/视图&存储过程&触发器/存储函数.md",
     "mysql/图片存储/Pasted image 20230607155651.png",
-    "mysql/视图&存储过程&触发器",
+    "mysql/进阶篇",
     "mysql/图片存储/Pasted image 20230607160312.png",
     "mysql/图片存储",
     "未命名",
@@ -201,7 +202,6 @@
     "资料/TopK.md",
     "资料/v3.0-JavaGuide面试突击版.pdf",
     "资料/zookeeper.md",
-    "未命名 1.canvas",
-    "未命名 1.md"
+    "未命名 1.canvas"
   ]
 }
