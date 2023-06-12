@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/进阶篇/锁.md",
+                "file": "mysql/进阶篇/存储过程&存储函数&触发器.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3aef936e46cb8ede",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/进阶篇/锁.md",
+                "file": "mysql/进阶篇/存储过程&存储函数&触发器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql/进阶篇/锁.md",
+                "file": "mysql/进阶篇/存储过程&存储函数&触发器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/进阶篇/锁.md"
+                "file": "mysql/进阶篇/存储过程&存储函数&触发器.md"
               }
             }
           }
@@ -160,8 +159,9 @@
   },
   "active": "8e49a709ae9b6291",
   "lastOpenFiles": [
-    "mysql/进阶篇/存储过程&存储函数&触发器.md",
     "mysql/进阶篇/锁.md",
+    "Pasted image 20230612173920.png",
+    "mysql/进阶篇/存储过程&存储函数&触发器.md",
     "git.md",
     "新建文本文档.txt",
     "mysql/练习markdown语法练习.md",
@@ -202,7 +202,6 @@
     "资料/leetcode数据库题目.md",
     "资料/TopK.md",
     "资料/v3.0-JavaGuide面试突击版.pdf",
-    "资料/zookeeper.md",
     "未命名 1.canvas"
   ]
 }
