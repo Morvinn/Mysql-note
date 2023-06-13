@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/基础篇/多表连接.md",
+                "file": "mysql/基础篇/多表查询.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/基础篇/多表连接.md",
+                "file": "mysql/基础篇/多表查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql/基础篇/多表连接.md",
+                "file": "mysql/基础篇/多表查询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/基础篇/多表连接.md"
+                "file": "mysql/基础篇/多表查询.md"
               }
             }
           }
@@ -160,23 +160,23 @@
   },
   "active": "1e83b899ce8d1faf",
   "lastOpenFiles": [
-    "mysql/索引.md",
-    "mysql/基础篇/多表连接.md",
-    "mysql/基础篇",
-    "Pasted image 20230613203653.png",
-    "Pasted image 20230613203334.png",
-    "Pasted image 20230613203012.png",
-    "Pasted image 20230613202746.png",
-    "Pasted image 20230613202708.png",
-    "Pasted image 20230613202551.png",
-    "Pasted image 20230613202500.png",
-    "mysql/进阶篇/锁.md",
-    "Pasted image 20230613200808.png",
-    "Pasted image 20230613200748.png",
-    "Pasted image 20230613200311.png",
-    "mysql/练习markdown语法练习.md",
-    "mysql/进阶篇/存储过程&存储函数&触发器.md",
+    "mysql/MarkDown语法练习.md",
+    "mysql/基础篇/索引.md",
+    "mysql/图片存储/Pasted image 20230613203653.png",
     "git.md",
+    "mysql/基础篇/多表查询.md",
+    "mysql/基础篇",
+    "mysql/图片存储/Pasted image 20230613203334.png",
+    "mysql/图片存储/Pasted image 20230613203012.png",
+    "mysql/图片存储/Pasted image 20230613202746.png",
+    "mysql/图片存储/Pasted image 20230613202708.png",
+    "mysql/图片存储/Pasted image 20230613202551.png",
+    "mysql/图片存储/Pasted image 20230613202500.png",
+    "mysql/进阶篇/锁.md",
+    "mysql/图片存储/Pasted image 20230613200808.png",
+    "mysql/图片存储/Pasted image 20230613200748.png",
+    "mysql/图片存储/Pasted image 20230613200311.png",
+    "mysql/进阶篇/存储过程&存储函数&触发器.md",
     "新建文本文档.txt",
     "mysql/视图&存储过程&触发器/存储函数.md",
     "mysql/进阶篇",
@@ -204,7 +204,6 @@
     "资料/Hadoop note.md",
     "资料/JVM.md",
     "资料/leetcode数据库题目.md",
-    "资料/TopK.md",
     "资料/v3.0-JavaGuide面试突击版.pdf",
     "未命名 1.canvas"
   ]
