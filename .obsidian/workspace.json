@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/进阶篇/锁.md",
+                "file": "mysql/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/进阶篇/锁.md",
+                "file": "mysql/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql/进阶篇/锁.md",
+                "file": "mysql/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/进阶篇/锁.md"
+                "file": "mysql/索引.md"
               }
             }
           }
@@ -160,17 +160,21 @@
   },
   "active": "1e83b899ce8d1faf",
   "lastOpenFiles": [
+    "Pasted image 20230613203012.png",
+    "Pasted image 20230613202746.png",
+    "Pasted image 20230613202708.png",
+    "Pasted image 20230613202551.png",
+    "Pasted image 20230613202500.png",
+    "mysql/进阶篇/锁.md",
+    "mysql/索引.md",
     "Pasted image 20230613200808.png",
     "Pasted image 20230613200748.png",
     "Pasted image 20230613200311.png",
     "mysql/练习markdown语法练习.md",
-    "mysql/进阶篇/锁.md",
     "mysql/进阶篇/存储过程&存储函数&触发器.md",
     "mysql/图片存储/Pasted image 20230613141832.png",
     "mysql/图片存储/Pasted image 20230607155651.png",
     "mysql/图片存储/Pasted image 20230607160312.png",
-    "mysql/图片存储/Pasted image 20230612173920.png",
-    "mysql/图片存储/Pasted image 20230613133316.png",
     "git.md",
     "新建文本文档.txt",
     "mysql/视图&存储过程&触发器/存储函数.md",
@@ -178,18 +182,14 @@
     "mysql/图片存储",
     "未命名",
     "mysql/视图.md",
-    "mysql/未命名.md",
     "未命名.canvas",
     "资料/Spark.md",
-    "资料/Pasted image 20230607165103.png",
-    "资料/Pasted image 20230607165047.png",
     "资料/Linux.md",
     "资料/Hive.md",
     "资料/Java基础1.md",
     "资料/java基础2.md",
     "资料/项目一.md",
     "资料/数据仓库.md",
-    "mysql/Pasted image 20230607160412.png",
     "mysql/存储过程 1.md",
     "资料/JUC.md",
     "资料",
