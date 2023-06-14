@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/基础篇/多表查询.md",
+                "file": "mysql/题目/牛客 SQL必知必会（上）.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/基础篇/多表查询.md",
+                "file": "mysql/题目/牛客 SQL必知必会（上）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql/基础篇/多表查询.md",
+                "file": "mysql/题目/牛客 SQL必知必会（上）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/基础篇/多表查询.md"
+                "file": "mysql/题目/牛客 SQL必知必会（上）.md"
               }
             }
           }
@@ -160,10 +160,13 @@
   },
   "active": "5810b02b525d4316",
   "lastOpenFiles": [
+    "Pasted image 20230614214801.png",
+    "Pasted image 20230614214746.png",
+    "Pasted image 20230614214734.png",
+    "mysql/基础篇/多表查询.md",
     "Pasted image 20230614213553.png",
     "mysql/基础篇/函数.md",
     "mysql/基础篇/SQL基础.md",
-    "mysql/基础篇/多表查询.md",
     "Pasted image 20230614211907.png",
     "mysql/题目/牛客 SQL必知必会（上）.md",
     "Pasted image 20230614205705.png",
@@ -179,9 +182,6 @@
     "mysql/图片存储/Pasted image 20230613203012.png",
     "mysql/图片存储/Pasted image 20230613202746.png",
     "mysql/图片存储/Pasted image 20230613202708.png",
-    "mysql/图片存储/Pasted image 20230613202551.png",
-    "mysql/图片存储/Pasted image 20230613202500.png",
-    "mysql/图片存储/Pasted image 20230613200808.png",
     "新建文本文档.txt",
     "mysql/视图&存储过程&触发器/存储函数.md",
     "mysql/进阶篇",
