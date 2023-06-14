@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql/基础篇/SQL基础.md",
+                "file": "mysql/基础篇/函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/基础篇/SQL基础.md",
+                "file": "mysql/基础篇/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql/基础篇/SQL基础.md",
+                "file": "mysql/基础篇/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/基础篇/SQL基础.md"
+                "file": "mysql/基础篇/函数.md"
               }
             }
           }
@@ -160,7 +160,9 @@
   },
   "active": "5810b02b525d4316",
   "lastOpenFiles": [
+    "Pasted image 20230614211907.png",
     "mysql/基础篇/SQL基础.md",
+    "mysql/基础篇/函数.md",
     "mysql/题目/牛客 SQL必知必会（上）.md",
     "Pasted image 20230614205705.png",
     "mysql/进阶篇/锁.md",
@@ -204,8 +206,6 @@
     "资料/kafka.md",
     "资料/Hbase.md",
     "资料/Hadoop.md",
-    "资料/Hadoop note.md",
-    "资料/JVM.md",
     "资料/v3.0-JavaGuide面试突击版.pdf",
     "未命名 1.canvas"
   ]
